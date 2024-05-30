@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>San Diego Divorce and child custody attorney, Brian A. Victor discusses what it means to be ready to move forward with a divorce and or child custody case.<br>The information provided in this podcast is to inform rather than to provide legal advice. And nothing in this podcast creates an attorney client relationship.&nbsp;</p>"; 
